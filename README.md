@@ -22,6 +22,3 @@ Este proyecto es un clon funcional de la página de inicio de sesión de Faceboo
 No se recomienda su uso para ningún fin malicioso ni para recopilar datos reales de usuarios.  
 Respetar siempre la privacidad, seguridad y legalidad en los desarrollos web.
 
-## 📎 Enlace al proyecto
-
-[Repositorio GitHub](https://github.com/10G0MENDOZA/Login-Facebook)
